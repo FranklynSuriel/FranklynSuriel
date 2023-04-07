@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franklyn</h1>
 <h3 align="center">Studying Full Stack Web Developer</h3>
-<img align=”right “ width=”400” src=”https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgyNjJmZDAyYWJkMDBjMDE4ZGMzZTdiNjA3NTcwNzI0ZTRmZGM5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif”>
+<img align=”right “ width=”400” src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franklynsuriel&label=Profile%20views&color=0e75b6&style=flat" alt="franklynsuriel" /> </p>
 
