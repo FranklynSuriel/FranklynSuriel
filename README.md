@@ -1,21 +1,33 @@
-<h1 align="center">Hi 👋, I'm Franklyn</h1>
-<h3 align="center">Studying to become a Full Stack Web Developer</h3>
-<img aling=”right “ width=”400” src=”https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I'm Franklyn</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=franklynsuriel&label=Profile%20views&color=0e75b6&style=flat" alt="franklynsuriel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=franklynsuriel&label=Profile%20views&color=0e75b6&style=flat" alt="franklynsuriel" /></p>
+I am Franklyn a Full Stack Web Developer.
 
-- 🌱 I’m currently learning **React, MongoDB**
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
 
-- 📫 How to reach me **fsuriel@gmail.com**
+## 📬 Reach me out!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+[![Twitter Badge](https://img.shields.io/badge/-@Franklynrs-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Franklynrs)](https://twitter.com/Franklynrs) [![Linkedin Badge](https://img.shields.io/badge/-FranklynSuriel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FranklynSuriel/) [![Mail Badge](https://img.shields.io/badge/-FSuriel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fsuriel@gmail.com) [![Mail Badge](https://img.shields.io/badge/-Portfolio-61DBFB?style=flat&labelColor=61DBFB&logo=react&logoColor=black)](https://franklynsuriel.github.io/franklyn_portfolio/)
+[![Resume/CV Badge](https://img.shields.io/badge/-Resume/CV-darkgreen?style=flat&labelColor=darkgreen&logo=react&logoColor=black)](https://franklynsuriel.github.io/franklyn_portfolio/static/media/Resume.9fb8a828cebe0d2d8b92.pdf)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- ⌨️ I’m currently learning **TypeScript**
+- 💻 Most used line of code `git commit -m "Initial Commit"`
+- 📸 I like Photography.
+- 📫 How to reach me: fsuriel@gmail.com.
+- ⚡ Fun fact: I love anime.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklynsuriel&show_icons=true&locale=en&layout=compact" alt="franklynsuriel" /></p>
+<hr/>
+
+## 🛠️ Top Technologies:
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Express-black?style=for-the-badge&labelColor=black&logo=express&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&labelColor=black&logo=html5&logoColor=red)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#)
+
+<hr/>
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklynsuriel&show_icons=true&locale=en&layout=compact" alt="franklynsuriel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklynsuriel&show_icons=true&locale=en" alt="franklynsuriel" /></p>
 
