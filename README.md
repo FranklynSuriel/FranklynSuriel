@@ -17,15 +17,9 @@ I am Franklyn a Full Stack Web Developer.
 - 📫 How to reach me: fsuriel@gmail.com.
 - ⚡ Fun fact: I love anime.
 
-<hr/>
-
 ## 🛠️ Top Technologies:
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Express-black?style=for-the-badge&labelColor=black&logo=express&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&labelColor=black&logo=html5&logoColor=red)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue)](#)
-
-<hr/>
-
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklynsuriel&show_icons=true&locale=en&layout=compact" alt="franklynsuriel" /></p>
 
