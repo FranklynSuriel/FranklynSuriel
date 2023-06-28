@@ -12,7 +12,7 @@
 ## 📬 Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@Franklynrs-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Franklynrs)](https://twitter.com/Franklynrs) [![Linkedin Badge](https://img.shields.io/badge/-FranklynSuriel-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FranklynSuriel/) [![Mail Badge](https://img.shields.io/badge/-FSuriel-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:fsuriel@gmail.com) [![Mail Badge](https://img.shields.io/badge/-Portfolio-61DBFB?style=flat&labelColor=61DBFB&logo=react&logoColor=black)](https://franklynsuriel.github.io/franklyn_portfolio/)
-[![Resume/CV Badge](https://img.shields.io/badge/-Resume/CV-darkgreen?style=flat&labelColor=darkgreen&logo=react&logoColor=black)](https://franklynsuriel.github.io/franklyn_portfolio/static/media/Resume.9fb8a828cebe0d2d8b92.pdf)
+[![Resume/CV Badge](https://img.shields.io/badge/-Resume/CV-darkgreen?style=flat&labelColor=darkgreen&logo=react&logoColor=black)](https://franklynsuriel.github.io/franklyn_portfolio/static/media/Resume.fbddc460f9d55021b78a.pdf)
 
 <br/>
 
