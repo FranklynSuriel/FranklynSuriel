@@ -36,9 +36,9 @@ I am Franklyn a Full Stack Web Developer.
 
 ## 🥇 Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklynsuriel&show_icons=true&locale=en&layout=compact" alt="franklynsuriel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=franklynsuriel&langs_count=8" alt="franklynsuriel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=franklynsuriel&show_icons=true&locale=en" alt="franklynsuriel" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=franklynsuriel&show_icons=true&locale=en" alt="franklynsuriel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franklynsuriel&" alt="franklynsuriel" /></p>
 
