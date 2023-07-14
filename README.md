@@ -20,7 +20,7 @@
 
 I am Franklyn a Full Stack Web Developer.
 
-- ⌨️ I’m currently learning **NextJS**
+- ⌨️ I’m currently learning **NextJS** and **Python**
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 - 📸 I like Photography.
 - 📫 How to reach me: fsuriel@gmail.com.
